@@ -1,21 +1,19 @@
-# Payroll-Management-System
 # 📊 Automated Payroll Management System
 > **Software Construction & Development (CS-3112) — Semester Project Phase 2**
 
 ---
 
 ## 👤 Student Information
-* **Student Name:** Muhammad Waleed Akhtar  
-* **Roll Number:** L1F23BSSE0332  
-* **Course Title:** Software Construction & Development (Lab)  
-* **Submitted To:** Sir Abdul Rehman  
-* **Course Instructor:** Dr. Ali Saeed  
-* **Institution:** University of Central Punjab, Lahore  
+* **Student Name:** Muhammad Waleed Akhtar  
+* **Roll Number:** L1F23BSSE0332  
+* **Course Title:** Software Construction & Development (Lab)  
+* **Submitted To:** Sir Abdul Rehman    
+* **Institution:** University of Central Punjab, Lahore  
 
 ---
 
 ## 📝 Project Description
-The **Automated Payroll Management System** is a lightweight, high-performance Java enterprise desktop utility engineered to completely digitize internal corporate employee bookkeeping, salary generation, and monthly wage distributions. 
+The **Automated Payroll Management System** is a lightweight, high-performance Java enterprise desktop utility engineered to completely digitize internal corporate employee bookkeeping, salary generation, and monthly wage distributions. 
 
 Adhering strictly to a multi-layered design architecture, the application isolates the user interface logic from back-end computational workflows. In compliance with explicit project guidelines, data persistence is securely managed entirely via thread-safe **In-Memory Java Collections** (`ArrayList` and `HashMap`). This completely bypasses bulky external database configurations, offering an isolated, fast execution runtime state perfectly optimized for desktop environments and evaluation setups.
 
@@ -42,6 +40,6 @@ Follow these basic commands to setup and run the application locally on your mac
 
 ### Local Setup
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/Waleed27/PayrollManagementSystem.git](https://github.com/Waleed27/PayrollManagementSystem.git)
-   cd PayrollManagementSystem
+   ```bash
+   git clone [https://github.com/WaleedAkhtar13/PayrollManagementSystem.git](https://github.com/WaleedAkhtar13/PayrollManagementSystem.git)
+   cd PayrollManagementSystem
